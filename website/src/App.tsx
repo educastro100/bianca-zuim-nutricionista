@@ -74,12 +74,12 @@ const faqs = [
   {
     question: "Tenho suporte entre as consultas?",
     answer:
-      "O Método BiZ inclui acompanhamento inicial e orientações para ajudar você a colocar o plano em prática com mais segurança.",
+      "Sim, tem suporte via WhatsApp e orientações para te ajudar a colocar o planejamento alimentar em prática!",
   },
   {
     question: "A consulta inclui avaliação física?",
     answer:
-      "No atendimento presencial, a necessidade de avaliação física é conversada individualmente. No online, utilizamos recursos e informações adequados a essa modalidade.",
+      "Sim, no atendimento presencial tem a inclusão da avaliação física inicial e ao longo do acompanhamento. No modo online, utilizamos recursos adequados.",
   },
 ];
 
