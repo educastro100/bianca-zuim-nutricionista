@@ -1,0 +1,290 @@
+Crie um mockup responsivo em alta fidelidade para uma landing page de uma nutricionista chamada Bianca Zuim, criadora do Metodo BiZ.
+
+Objetivo do site
+----------------
+O objetivo principal da landing page e aumentar a clientela e facilitar o contato via WhatsApp para agendamento de consultas e duvidas.
+
+A nutricionista atende presencialmente em Sao Paulo e tambem online.
+
+O site deve ser uma pagina unica, responsiva, com versao desktop e mobile.
+
+
+Direcao de UX
+-------------
+A ordem do scroll deve seguir uma narrativa de conversao, nao apenas a ordem do menu.
+
+A pagina deve primeiro gerar identificacao emocional, depois apresentar a solucao, depois construir confianca e, por fim, conduzir para o contato.
+
+Evite uma estrutura fria ou institucional demais. O site precisa parecer profissional, mas tambem humano, acolhedor e confiavel.
+
+
+Identidade visual
+-----------------
+Use uma estetica natural, feminina, elegante, acolhedora e profissional.
+
+Evite:
+- Aparencia fitness agressiva.
+- Visual hospitalar.
+- Visual generico de clinica.
+- Promessas exageradas de emagrecimento.
+- Excesso de cards.
+- Textos longos demais na primeira dobra.
+
+Use como base a seguinte paleta:
+- Verde oliva principal: #526333
+- Verde oliva escuro: #2F3A1F
+- Cobre / terracota para chamadas de acao: #C86F32
+- Pessego claro para fundos suaves: #E8B08D
+- Off-white como fundo principal: #FAF7F2
+- Branco quente para blocos internos: #FFFDF8
+- Grafite suave para texto: #2E2B26
+- Cinza quente para textos secundarios: #756F66
+
+
+Tipografia
+----------
+Use uma fonte serifada elegante para titulos, como Playfair Display ou Cormorant Garamond.
+
+Use uma fonte sans-serif limpa para textos, como Lato ou Inter.
+
+A sensacao geral deve ser premium, leve e natural.
+
+
+Menu
+----
+Criar menu no topo com navegacao por ancoras.
+
+Itens do menu:
+- Metodo BiZ
+- Sobre mim
+- Pacientes
+- Duvidas
+- Contato
+
+No mobile, usar menu hamburguer ou navegacao simplificada.
+
+O menu nao precisa seguir exatamente a ordem do scroll. Ele deve funcionar como mapa rapido para as principais secoes.
+
+
+Ordem do scroll da landing page
+-------------------------------
+
+1. Hero / Inicio
+----------------
+Criar uma primeira dobra sofisticada, clara e acolhedora.
+
+Elementos:
+- Logo Bianca Zuim Nutricionista no topo.
+- Foto profissional da Bianca em destaque.
+- Frase principal forte.
+- Subtitulo explicativo.
+- CTA principal para WhatsApp.
+- CTA secundario para conhecer o Metodo BiZ.
+- Informacao curta sobre atendimento presencial e online.
+
+Titulo principal:
+"Voce nao precisa ter uma ma relacao com a comida."
+
+Subtitulo:
+"No Metodo BiZ, voce aprende a emagrecer de forma leve, consciente e com metas alcancaveis."
+
+CTA principal:
+"Quero agendar minha consulta"
+
+CTA secundario:
+"Conhecer o Metodo BiZ"
+
+Texto de apoio:
+"Atendimento presencial em Sao Paulo e online."
+
+
+2. Dor / Identificacao
+----------------------
+Antes de apresentar o metodo, criar uma secao curta para a visitante se reconhecer.
+
+Objetivo:
+Mostrar que a Bianca entende as dificuldades reais da paciente, sem culpa e sem julgamento.
+
+Titulo sugerido:
+"Se alimentar bem nao deveria ser uma fonte de culpa."
+
+Texto sugerido:
+"Muitas pessoas chegam ao consultorio cansadas de recomeçar dietas, perder a constancia e sentir que precisam escolher entre resultado e leveza. O caminho pode ser diferente: com estrategia, acolhimento e acompanhamento profissional."
+
+Possiveis pontos de identificacao:
+- Voce sente que vive recomeçando a dieta.
+- Tem dificuldade de manter constancia.
+- Sente culpa depois de comer.
+- Quer emagrecer, mas sem abrir mao de uma rotina possivel.
+- Precisa de orientacao individualizada, nao de uma formula pronta.
+
+Visual:
+Usar composicao leve, com icones discretos ou pequenos blocos de texto. Nao criar uma secao pesada ou negativa demais.
+
+
+3. Metodo BiZ
+-------------
+Apresentar o Metodo BiZ como a solucao principal.
+
+Titulo:
+"Metodo BiZ - 90 dias para transformar sua relacao com a comida"
+
+Texto:
+"Um metodo desenvolvido para pacientes que buscam melhorar a relacao com a comida, construir habitos saudaveis e ter acompanhamento profissional durante o processo."
+
+Reforcar:
+- Metodo de 90 dias.
+- Emagrecimento leve e consciente.
+- Metas alcancaveis.
+- Acompanhamento individualizado.
+- Construcao de autonomia alimentar.
+
+Visual:
+Usar uma composicao sofisticada, talvez com uma linha do tempo ou blocos horizontais no desktop. No mobile, empilhar de forma clara.
+
+
+4. O que esta incluso
+---------------------
+Mostrar de forma concreta o que a paciente recebe dentro do Metodo BiZ.
+
+Titulo:
+"O que esta incluso no Metodo BiZ"
+
+Itens:
+- Consulta inicial
+- Plano alimentar individualizado
+- Materiais orientativos
+- Plano de metas
+- Consultas continuas
+- Acompanhamento inicial
+
+Visual:
+Criar blocos limpos e elegantes, sem excesso de bordas ou sombras. Usar icones simples e pequenos detalhes em cobre/terracota.
+
+
+5. Beneficios / Transformacao
+-----------------------------
+Traduzir os recursos do metodo em ganhos percebidos pela paciente.
+
+Titulo:
+"O que voce pode construir com o Metodo BiZ"
+
+Beneficios:
+- Reeducacao alimentar.
+- Construcao de uma rotina alimentar saudavel.
+- Autonomia alimentar.
+- Relacao com a comida sem culpa.
+- Mais energia, disposicao, confianca e autoestima.
+
+Visual:
+Pode ter uma divisao em duas colunas no desktop: texto de impacto de um lado e beneficios do outro. No mobile, priorizar leitura rapida.
+
+
+6. Sobre mim
+------------
+Depois de explicar o metodo, apresentar a Bianca para construir autoridade e proximidade.
+
+Titulo:
+"Sobre mim"
+
+Texto provisiorio:
+"Sou Bianca Zuim, nutricionista, e meu trabalho e ajudar pessoas a construirem uma relacao mais leve, consciente e possivel com a alimentacao. Por meio do Metodo BiZ, acompanho cada paciente de forma individualizada, respeitando sua rotina, seus objetivos e seu momento."
+
+Dados profissionais:
+"CRN: 00000"
+
+Incluir:
+- Foto profissional da Bianca.
+- Abordagem acolhedora.
+- Autoridade profissional.
+- Atendimento presencial em Sao Paulo e online.
+
+Visual:
+Foto em destaque, texto bem diagramado e sem excesso de informacao. Esta secao deve aproximar a visitante da profissional.
+
+
+7. Meus pacientes dizem
+-----------------------
+Criar uma secao de prova social com depoimentos.
+
+Titulo:
+"Meus pacientes dizem"
+
+Depoimentos provisiorios:
+- "Aprendi a organizar minha rotina alimentar sem culpa."
+- "O acompanhamento me ajudou a ter mais constancia e confianca."
+- "Passei a entender melhor minhas escolhas e meus habitos."
+
+Observacao importante:
+Se houver depoimentos com resultados numericos, como perda de peso, apresentar com cuidado para nao parecer promessa de resultado garantido.
+
+Visual:
+Cards elegantes, com destaque para nome ou iniciais, sem exagero visual.
+
+
+8. Duvidas frequentes
+---------------------
+Criar uma secao de FAQ para reduzir objeções antes do contato.
+
+Titulo:
+"Duvidas frequentes"
+
+Perguntas:
+- O atendimento e online ou presencial?
+- Como funciona o Metodo BiZ?
+- Qual a frequencia das consultas?
+- O plano alimentar e individualizado?
+- Como funciona o suporte?
+- A avaliacao fisica e feita na consulta?
+
+Visual:
+Usar acordeoes ou blocos expansivos, com boa legibilidade no mobile.
+
+
+9. Contato
+----------
+Criar uma secao final forte, simples e orientada para conversao.
+
+Titulo:
+"Vamos conversar sobre o seu objetivo?"
+
+Texto:
+"Agende sua consulta ou tire suas duvidas pelo WhatsApp."
+
+CTA principal:
+"Chamar no WhatsApp"
+
+Incluir tambem:
+- Instagram
+- E-mail
+- Localizacao em Sao Paulo
+- Atendimento presencial e online
+
+Visual:
+Secao final limpa, com botao bem evidente em cobre/terracota ou verde oliva escuro.
+
+
+Requisitos responsivos
+----------------------
+Criar pelo menos duas versoes:
+- Desktop: 1440px de largura.
+- Mobile: 390px de largura.
+
+Garantir:
+- Menu adaptado para mobile.
+- Textos legiveis.
+- Botoes faceis de tocar.
+- Hierarquia clara.
+- Fotos bem enquadradas.
+- Nenhum texto sobreposto.
+- Boa distribuicao de espacos.
+- CTA de WhatsApp visivel em pontos estrategicos da pagina.
+
+
+Observacoes finais
+------------------
+O mockup deve parecer pronto para apresentacao a uma cliente real.
+
+Priorize clareza, elegancia, confianca e conversao.
+
+O resultado deve ser uma landing page premium, acolhedora e comercialmente eficiente para uma nutricionista que trabalha com reeducacao alimentar, emagrecimento consciente e relacao saudavel com a comida.

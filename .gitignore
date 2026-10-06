@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.cache/
+.vite/
+.pnpm-store/
+.env*
+*.tsbuildinfo
+*-debug.log*
+logs/
+*.log
+

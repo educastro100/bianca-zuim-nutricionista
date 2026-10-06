@@ -1,0 +1,147 @@
+IDENTIDADE VISUAL INICIAL - BIANCA ZUIM NUTRICIONISTA
+
+Objetivo do site
+----------------
+Landing page responsiva, em pagina unica, com foco em aumentar a clientela e facilitar o contato com a nutricionista Bianca Zuim.
+
+Principal chamada para acao:
+- Agendamento e duvidas via WhatsApp.
+
+Atendimento:
+- Presencial em Sao Paulo.
+- Online.
+
+Dados profissionais:
+- Nome: Bianca Zuim
+- Profissao: Nutricionista
+- CRN: inserir numero oficial posteriormente.
+- Metodo: Metodo BiZ
+
+
+Direcao visual
+--------------
+A identidade deve transmitir cuidado, acolhimento, leveza, saude e profissionalismo, sem cair em uma estetica fitness agressiva.
+
+O caminho recomendado e uma identidade natural, feminina, limpa e premium, apoiada nas cores ja presentes na logo: verde oliva, cobre/terracota e pessego claro.
+
+
+Paleta de cores sugerida
+------------------------
+Verde oliva principal
+- Uso: titulos, menu, detalhes institucionais, icones, destaques elegantes.
+- Hex sugerido: #526333
+
+Verde oliva escuro
+- Uso: textos fortes, rodape, botoes secundarios, areas de maior contraste.
+- Hex sugerido: #2F3A1F
+
+Cobre / terracota
+- Uso: botoes principais, chamadas para acao, pequenos destaques e links importantes.
+- Hex sugerido: #C86F32
+
+Pessego claro
+- Uso: fundos suaves, secoes alternadas, detalhes de apoio.
+- Hex sugerido: #E8B08D
+
+Off-white
+- Uso: fundo principal do site.
+- Hex sugerido: #FAF7F2
+
+Branco quente
+- Uso: cards, areas internas e blocos de conteudo.
+- Hex sugerido: #FFFDF8
+
+Grafite suave
+- Uso: texto principal, evitando preto puro.
+- Hex sugerido: #2E2B26
+
+Cinza quente
+- Uso: textos secundarios, legendas e informacoes de apoio.
+- Hex sugerido: #756F66
+
+
+Fontes sugeridas
+----------------
+Opcao recomendada para titulos:
+- Playfair Display
+- Uso: titulos principais, chamadas emocionais e secoes de maior destaque.
+- Motivo: combina com a elegancia da logo e reforca um aspecto mais premium.
+
+Opcao recomendada para textos:
+- Lato
+- Uso: paragrafos, menu, botoes, perguntas frequentes e textos explicativos.
+- Motivo: leitura clara, moderna e amigavel.
+
+Alternativa para titulos:
+- Cormorant Garamond
+- Uso: caso queiramos uma estetica ainda mais editorial e sofisticada.
+
+Alternativa para textos:
+- Inter
+- Uso: caso queiramos um visual mais digital, neutro e objetivo.
+
+
+Tom de comunicacao
+------------------
+Humano, acolhedor e direto.
+
+Evitar:
+- Promessas de emagrecimento garantido.
+- Linguagem agressiva ou culpabilizante.
+- Excesso de termos tecnicos.
+
+Priorizar:
+- Autonomia alimentar.
+- Relacao saudavel com a comida.
+- Rotina realista.
+- Metas alcancaveis.
+- Acompanhamento profissional.
+- Emagrecimento de forma leve e consciente.
+
+
+Frases iniciais para o mockup
+-----------------------------
+Hero:
+"Voce nao precisa ter uma ma relacao com a comida."
+
+Subtitulo:
+"No Metodo BiZ, voce aprende a emagrecer de forma leve, consciente e com metas alcancaveis."
+
+Chamada para acao:
+"Quero agendar minha consulta"
+
+Secao Metodo BiZ:
+"Um metodo de 90 dias desenvolvido para quem busca melhorar a relacao com a comida, construir habitos saudaveis e ter acompanhamento profissional durante o processo."
+
+Secao beneficios:
+"O que voce pode construir com o Metodo BiZ"
+
+Beneficios:
+- Reeducacao alimentar.
+- Construcao de uma rotina alimentar saudavel.
+- Autonomia alimentar.
+- Relacao com a comida sem culpa.
+- Mais energia, disposicao, confianca e autoestima.
+
+
+Estrutura inicial da landing page
+---------------------------------
+1. Topo com logo, menu e botao de contato.
+2. Hero com frase principal, foto profissional e chamada para WhatsApp.
+3. Metodo BiZ, explicando a proposta de 90 dias.
+4. O que esta incluso no metodo.
+5. Sobre mim.
+6. Meus pacientes dizem.
+7. Duvidas frequentes.
+8. Contato, WhatsApp, Instagram, e-mail e localizacao.
+
+
+Observacoes para o mockup
+-------------------------
+- Usar bastante respiro visual.
+- Evitar excesso de cards empilhados.
+- Priorizar fotos reais da Bianca, especialmente no hero e na secao "Sobre mim".
+- Usar WhatsApp como principal conversao.
+- Menu deve rolar para as secoes da propria pagina.
+- Layout precisa ser pensado desde o inicio para desktop e mobile.
+- Resultados de pacientes podem aparecer como depoimentos, mas sem parecer promessa de resultado garantido.

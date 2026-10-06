@@ -1,0 +1,78 @@
+Crie um mockup responsivo em alta fidelidade para uma landing page de pagina unica da nutricionista Bianca Zuim, criadora do Metodo BiZ.
+
+Objetivo: aumentar a clientela e facilitar contato via WhatsApp para agendamento e duvidas. Ela atende presencialmente em Sao Paulo e online.
+
+UX: a ordem do scroll deve seguir uma narrativa de conversao: gerar identificacao, apresentar a solucao, construir confianca e levar ao contato. O menu pode ter ordem diferente do scroll.
+
+Estilo visual: natural, feminino, elegante, acolhedor e profissional. Evite visual fitness agressivo, hospitalar ou generico. Evite promessas exageradas de emagrecimento e excesso de cards.
+
+Paleta:
+- Verde oliva: #526333
+- Verde oliva escuro: #2F3A1F
+- Cobre/terracota: #C86F32
+- Pessego claro: #E8B08D
+- Off-white: #FAF7F2
+- Branco quente: #FFFDF8
+- Grafite: #2E2B26
+- Cinza quente: #756F66
+
+Tipografia: titulos com Playfair Display ou Cormorant Garamond. Textos com Lato ou Inter.
+
+Menu com ancoras:
+- Metodo BiZ
+- Sobre mim
+- Pacientes
+- Duvidas
+- Contato
+
+No mobile, usar menu hamburguer ou navegacao simplificada.
+
+Secoes do scroll:
+
+1. Hero
+Primeira dobra sofisticada, clara e acolhedora, com logo, foto profissional da Bianca, CTA para WhatsApp e CTA secundario.
+Titulo: "Voce nao precisa ter uma ma relacao com a comida."
+Subtitulo: "No Metodo BiZ, voce aprende a emagrecer de forma leve, consciente e com metas alcancaveis."
+CTA principal: "Quero agendar minha consulta"
+CTA secundario: "Conhecer o Metodo BiZ"
+Apoio: "Atendimento presencial em Sao Paulo e online."
+
+2. Identificacao
+Titulo: "Se alimentar bem nao deveria ser uma fonte de culpa."
+Texto: "Muitas pessoas chegam ao consultorio cansadas de recomecar dietas, perder a constancia e sentir que precisam escolher entre resultado e leveza. O caminho pode ser diferente: com estrategia, acolhimento e acompanhamento profissional."
+Pontos: vive recomecando a dieta, dificuldade de constancia, culpa ao comer, desejo de emagrecer sem abrir mao de uma rotina possivel, necessidade de orientacao individualizada.
+
+3. Metodo BiZ
+Titulo: "Metodo BiZ - 90 dias para transformar sua relacao com a comida"
+Texto: "Um metodo desenvolvido para pacientes que buscam melhorar a relacao com a comida, construir habitos saudaveis e ter acompanhamento profissional durante o processo."
+Reforcar: 90 dias, emagrecimento leve e consciente, metas alcancaveis, acompanhamento individualizado e autonomia alimentar.
+
+4. O que esta incluso
+Titulo: "O que esta incluso no Metodo BiZ"
+Itens: consulta inicial, plano alimentar individualizado, materiais orientativos, plano de metas, consultas continuas e acompanhamento inicial.
+
+5. Beneficios
+Titulo: "O que voce pode construir com o Metodo BiZ"
+Itens: reeducacao alimentar, rotina alimentar saudavel, autonomia alimentar, relacao com a comida sem culpa, mais energia, disposicao, confianca e autoestima.
+
+6. Sobre mim
+Titulo: "Sobre mim"
+Texto provisiorio: "Sou Bianca Zuim, nutricionista, e meu trabalho e ajudar pessoas a construirem uma relacao mais leve, consciente e possivel com a alimentacao. Por meio do Metodo BiZ, acompanho cada paciente de forma individualizada, respeitando sua rotina, seus objetivos e seu momento."
+Incluir: foto profissional, CRN 00000, atendimento presencial em Sao Paulo e online.
+
+7. Meus pacientes dizem
+Criar depoimentos elegantes:
+- "Aprendi a organizar minha rotina alimentar sem culpa."
+- "O acompanhamento me ajudou a ter mais constancia e confianca."
+- "Passei a entender melhor minhas escolhas e meus habitos."
+
+8. Duvidas frequentes
+Perguntas: atendimento online ou presencial, como funciona o Metodo BiZ, frequencia das consultas, plano alimentar individualizado, suporte e avaliacao fisica.
+
+9. Contato
+Titulo: "Vamos conversar sobre o seu objetivo?"
+Texto: "Agende sua consulta ou tire suas duvidas pelo WhatsApp."
+CTA: "Chamar no WhatsApp"
+Incluir Instagram, e-mail, localizacao em Sao Paulo e atendimento presencial/online.
+
+Requisitos: criar desktop 1440px e mobile 390px. Garantir boa legibilidade, botoes faceis de tocar, fotos bem enquadradas, menu adaptado, nenhum texto sobreposto, bom espacamento e CTA de WhatsApp visivel em pontos estrategicos.

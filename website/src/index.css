@@ -1,0 +1,265 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Lato", sans-serif;
+  --font-display: "Playfair Display", serif;
+}
+
+:root {
+  font-family: "Lato", sans-serif;
+  color: #2e2b26;
+  background: #faf7f2;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #faf7f2;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  cursor: pointer;
+}
+
+.page-container {
+  width: min(100% - 40px, 1240px);
+  margin-inline: auto;
+}
+
+.section-pad {
+  padding-block: 80px;
+}
+
+.font-display {
+  font-family: "Playfair Display", serif;
+}
+
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #c86f32;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 0.2em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.eyebrow::before {
+  width: 24px;
+  height: 1px;
+  background: currentColor;
+  content: "";
+}
+
+.eyebrow-light {
+  color: #e8b08d;
+}
+
+.section-title {
+  font-family: "Playfair Display", serif;
+  color: #2f3a1f;
+  font-size: clamp(2.4rem, 4.2vw, 3.6rem);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.12;
+}
+
+.nav-link {
+  position: relative;
+  color: #4c4942;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  transition: color 180ms ease;
+}
+
+.nav-link::after {
+  position: absolute;
+  right: 0;
+  bottom: -8px;
+  left: 0;
+  height: 1px;
+  background: #c86f32;
+  content: "";
+  transform: scaleX(0);
+  transition: transform 180ms ease;
+}
+
+.nav-link:hover {
+  color: #2f3a1f;
+}
+
+.nav-link:hover::after {
+  transform: scaleX(1);
+}
+
+.button {
+  display: inline-flex;
+  min-height: 52px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 999px;
+  padding: 14px 22px;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.035em;
+  text-align: center;
+  transition:
+    background 180ms ease,
+    color 180ms ease,
+    border 180ms ease,
+    transform 180ms ease;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+}
+
+.button-primary {
+  border: 1px solid #526333;
+  color: #fffdf8;
+  background: #526333;
+  box-shadow: 0 10px 24px rgb(82 99 51 / 0.14);
+}
+
+.button-primary:hover {
+  border-color: #2f3a1f;
+  background: #2f3a1f;
+}
+
+.button-secondary {
+  border: 1px solid rgb(82 99 51 / 0.28);
+  color: #2f3a1f;
+}
+
+.button-secondary:hover {
+  border-color: #526333;
+  background: rgb(82 99 51 / 0.06);
+}
+
+.button-light {
+  min-width: 240px;
+  color: #2f3a1f;
+  background: #fffdf8;
+}
+
+.button-light:hover {
+  background: #faf7f2;
+}
+
+.hero-blob {
+  position: absolute;
+  top: 125px;
+  right: -90px;
+  width: min(43vw, 640px);
+  height: 560px;
+  border-radius: 52% 0 0 55%;
+  background: rgb(232 176 141 / 0.22);
+  transform: rotate(-5deg);
+}
+
+.check-icon {
+  display: inline-flex;
+  width: 26px;
+  height: 26px;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  color: #526333;
+  background: rgb(82 99 51 / 0.1);
+}
+
+.included-item {
+  min-height: 260px;
+  padding: 34px 26px;
+  border-right: 1px solid rgb(82 99 51 / 0.2);
+  border-bottom: 1px solid rgb(82 99 51 / 0.2);
+  transition: background 180ms ease;
+}
+
+.included-item:hover {
+  background: #fffdf8;
+}
+
+.testimonial {
+  min-height: 390px;
+  padding: 32px;
+  border: 1px solid rgb(82 99 51 / 0.16);
+  border-radius: 90px 20px 20px;
+  background: #fffdf8;
+}
+
+@media (min-width: 768px) {
+  .page-container {
+    width: min(100% - 80px, 1240px);
+  }
+
+  .section-pad {
+    padding-block: 112px;
+  }
+
+  .included-item {
+    padding: 40px 34px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section-pad {
+    padding-block: 136px;
+  }
+
+  .included-item:nth-child(3n) {
+    border-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .included-item {
+    border-right: 0;
+  }
+
+  .hero-blob {
+    top: 570px;
+    right: -130px;
+    width: 520px;
+    height: 470px;
+  }
+
+  .button {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .included-item:nth-child(2n) {
+    border-right: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+  }
+}
