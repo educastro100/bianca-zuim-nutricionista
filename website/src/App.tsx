@@ -377,10 +377,10 @@ export default function App() {
                 “Acredito em uma nutrição que orienta sem julgar e transforma sem desconectar você da vida.”
               </p>
               <p className="mt-6 max-w-[620px] text-base leading-8 text-[#625D55]">
-                Sou Bianca Zuim, nutricionista, e meu trabalho é ajudar pessoas a construírem uma relação mais leve, consciente e possível com a alimentação. Por meio do Método BiZ, acompanho cada paciente de forma individualizada, respeitando sua rotina, seus objetivos e seu momento.
+                Sou Bianca Zuim, nutricionista pós-graduada em nutrição clínica e emagrecimento, e meu trabalho é ajudar pessoas a construírem uma relação mais leve, consciente e possível com a alimentação. Por meio do Método BiZ, acompanho cada paciente de forma individualizada, respeitando sua rotina, seus objetivos e seu momento.
               </p>
               <div className="mt-8 flex flex-wrap gap-x-10 gap-y-4 border-t border-[#526333]/15 pt-7 text-sm font-bold text-[#46423C]">
-                <span>CRN385911</span>
+                <span>CRN3 85911</span>
                 <span>Presencial em São Paulo</span>
                 <span>Atendimento online</span>
               </div>
@@ -485,7 +485,7 @@ export default function App() {
           </a>
           <p className="flex items-center gap-2 text-xs text-white/50">
             <AppleIcon />
-            <span>Nutrição leve, consciente e possível. · CRN385911</span>
+            <span>Nutrição leve, consciente e possível. · CRN3 85911</span>
           </p>
           <a href="#" className="text-xs font-bold uppercase tracking-[.14em] text-white/70 hover:text-white">Voltar ao topo</a>
         </div>
